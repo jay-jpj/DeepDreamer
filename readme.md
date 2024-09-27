@@ -16,3 +16,9 @@ DeepDream is a visualization technique that uses pre-trained neural networks to 
 
 ## Disclaimer
 The DeepDream algorithm can produce unpredictable and surreal visualizations.
+
+## Results
+![Image 1](results/deepdream.jpg)
+![Image 2](results/deepdream3.jpg)
+![Image 3](results/deepdream6.jpg)
+![Image 4](results/deepdream5.jpg)
